@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/witold/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1369170761.index
+1690973197.index
+347295294.index
+2733279031.index
+921446032.index
+1484743181.index
